@@ -157,7 +157,6 @@ namespace DataSystem.Controllers
                 {
                    return BadRequest(ListErrors().Select(e=>e));
                 }
-                return NoContent();
             }
             catch{
                  return BadRequest(
