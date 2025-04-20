@@ -1,3 +1,7 @@
 /.vs
 /.vscode
 /obj
+/bin
+/packages
+appsettings.json
+appsettings.Development.json
