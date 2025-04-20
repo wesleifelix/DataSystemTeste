@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "Novo Perfil",
+    "Projects": [
+      {
+        "Path": "DataSystem\\Presentation.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Path": "Domains\\Domains.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "DataInfra\\Infrastructure.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ApplicationServices\\ApplicationServices.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

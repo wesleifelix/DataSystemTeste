@@ -1,0 +1,6 @@
+@DataSystem_HostAddress = http://localhost:5001
+
+GET {{DataSystem_HostAddress}}/Events/
+Accept: application/json
+
+###
