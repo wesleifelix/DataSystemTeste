@@ -5,3 +5,10 @@
 /packages
 appsettings.json
 appsettings.Development.json
+DataInfra/obj
+DataSystem/obj
+Domains/obj
+DataInfra/bin
+DataSystem/bin
+Domains/bin
+ApplicationServices/obj
